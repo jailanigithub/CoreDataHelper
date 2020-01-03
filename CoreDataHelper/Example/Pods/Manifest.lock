@@ -1,0 +1,27 @@
+PODS:
+  - CoreDataHelper (0.1.0)
+  - Nimble (7.3.4)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - CoreDataHelper (from `../`)
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  CoreDataHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoreDataHelper: ec85dee7ccd6de5a3fb09db1b56239e21a8b5be9
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: c64d5a30e586c9f4ee83c7f4870f9fc4413a08dd
+
+COCOAPODS: 1.6.1
